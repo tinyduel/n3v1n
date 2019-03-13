@@ -1,0 +1,77 @@
+{
+   "appButtonDesc": {
+      "message": "2048 gioco"
+   },
+   "appDesc": {
+      "message": "Giocare a 2048 in qualsiasi momento si desidera, è sempre nel tuo browser!"
+   },
+   "appName": {
+      "message": "2048 in Popup"
+   },
+   "backtogame": {
+      "message": "Di nuovo al vostro gioco"
+   },
+   "best": {
+      "message": "Migliore"
+   },
+   "best_score": {
+      "message": "Il Tuo Punteggio"
+   },
+   "cancel": {
+      "message": "Annulla"
+   },
+   "congratulations": {
+      "message": "Congratulazioni!"
+   },
+   "empty": {
+      "message": "Vuoto."
+   },
+   "enter_name": {
+      "message": "Inserisci il tuo nome"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "input_placeholder": {
+      "message": "Esempio: Mike"
+   },
+   "keep_going": {
+      "message": "Andare avanti"
+   },
+   "lb_suggestion": {
+      "message": "Voglio arrivare alla classifica?"
+   },
+   "leaderboard": {
+      "message": "Punteggio Più Alto. Stagione #2"
+   },
+   "loading": {
+      "message": "Il caricamento..."
+   },
+   "new_game": {
+      "message": "Nuovo Gioco"
+   },
+   "no": {
+      "message": "Non"
+   },
+   "save": {
+      "message": "Salva"
+   },
+   "score": {
+      "message": "Punteggio"
+   },
+   "try_again": {
+      "message": "Provare di nuovo"
+   },
+   "tutorial_1": {
+      "message": "Utilizzare la tastiera"
+   },
+   "tutorial_2": {
+      "message": "per giocare"
+   },
+   "victory": {
+      "message": "Si vince!"
+   },
+   "yes": {
+      "message": "Sì"
+   }
+}

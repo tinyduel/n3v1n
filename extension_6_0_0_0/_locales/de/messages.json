@@ -1,0 +1,77 @@
+{
+   "appButtonDesc": {
+      "message": "2048 Spiel"
+   },
+   "appDesc": {
+      "message": "Spielen 2048 Wann immer Sie wollen, es ist immer in deinem browser!"
+   },
+   "appName": {
+      "message": "2048 in Popup"
+   },
+   "backtogame": {
+      "message": "Zurück zu deinem Spiel"
+   },
+   "best": {
+      "message": "Am besten"
+   },
+   "best_score": {
+      "message": "Ihre Punktzahl"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "congratulations": {
+      "message": "Herzlichen Glückwunsch!"
+   },
+   "empty": {
+      "message": "Leer."
+   },
+   "enter_name": {
+      "message": "Geben Sie Ihren Namen"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "input_placeholder": {
+      "message": "Beispiel: Mike"
+   },
+   "keep_going": {
+      "message": "Weiterzumachen"
+   },
+   "lb_suggestion": {
+      "message": "Will man die highscore-Tabelle?"
+   },
+   "leaderboard": {
+      "message": "Top Score. Saison #2"
+   },
+   "loading": {
+      "message": "Wird geladen..."
+   },
+   "new_game": {
+      "message": "Neues Spiel"
+   },
+   "no": {
+      "message": "Keine"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "score": {
+      "message": "Partitur"
+   },
+   "try_again": {
+      "message": "Versuchen Sie es erneut"
+   },
+   "tutorial_1": {
+      "message": "Verwenden Sie Ihre Tastatur"
+   },
+   "tutorial_2": {
+      "message": "spielen"
+   },
+   "victory": {
+      "message": "Gewinnen Sie!"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

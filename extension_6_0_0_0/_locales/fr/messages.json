@@ -1,0 +1,77 @@
+{
+   "appButtonDesc": {
+      "message": "2048 jeu"
+   },
+   "appDesc": {
+      "message": "Jeu 2048 quand vous le voulez, il est toujours dans votre navigateur!"
+   },
+   "appName": {
+      "message": "2048 en Popup"
+   },
+   "backtogame": {
+      "message": "Retour à votre jeu"
+   },
+   "best": {
+      "message": "Meilleur"
+   },
+   "best_score": {
+      "message": "Votre Score"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "congratulations": {
+      "message": "Félicitations!"
+   },
+   "empty": {
+      "message": "Vide."
+   },
+   "enter_name": {
+      "message": "Entrez votre nom"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "input_placeholder": {
+      "message": "Exemple: Mike"
+   },
+   "keep_going": {
+      "message": "Continuer"
+   },
+   "lb_suggestion": {
+      "message": "Vous souhaitez obtenir le meilleur score du tableau?"
+   },
+   "leaderboard": {
+      "message": "Meilleur Score. Saison #2"
+   },
+   "loading": {
+      "message": "Chargement..."
+   },
+   "new_game": {
+      "message": "Nouveau Jeu"
+   },
+   "no": {
+      "message": "Pas de"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "try_again": {
+      "message": "Réessayez"
+   },
+   "tutorial_1": {
+      "message": "Utilisez votre clavier"
+   },
+   "tutorial_2": {
+      "message": "pour jouer"
+   },
+   "victory": {
+      "message": "Vous gagnez!"
+   },
+   "yes": {
+      "message": "Oui"
+   }
+}

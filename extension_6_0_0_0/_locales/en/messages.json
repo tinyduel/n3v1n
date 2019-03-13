@@ -1,0 +1,77 @@
+{
+   "appButtonDesc": {
+      "message": "2048 game"
+   },
+   "appDesc": {
+      "message": "Play 2048 anytime you want, it's always in your browser!"
+   },
+   "appName": {
+      "message": "2048 in Popup"
+   },
+   "backtogame": {
+      "message": "Back to your game"
+   },
+   "best": {
+      "message": "Best"
+   },
+   "best_score": {
+      "message": "Your Score"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "congratulations": {
+      "message": "Congratulations!"
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "enter_name": {
+      "message": "Enter your name"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "input_placeholder": {
+      "message": "Example: Mike"
+   },
+   "keep_going": {
+      "message": "Keep going"
+   },
+   "lb_suggestion": {
+      "message": "Want to get to the highscore table?"
+   },
+   "leaderboard": {
+      "message": "Top Score. Season #2"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "new_game": {
+      "message": "New Game"
+   },
+   "no": {
+      "message": "No"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "try_again": {
+      "message": "Try again"
+   },
+   "tutorial_1": {
+      "message": "Use your keyboard"
+   },
+   "tutorial_2": {
+      "message": "to play"
+   },
+   "victory": {
+      "message": "You win!"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

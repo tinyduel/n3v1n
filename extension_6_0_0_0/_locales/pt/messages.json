@@ -1,0 +1,77 @@
+{
+   "appButtonDesc": {
+      "message": "2048 jogo"
+   },
+   "appDesc": {
+      "message": "Jogar 2048 hora que você quiser, é sempre no seu navegador!"
+   },
+   "appName": {
+      "message": "2048 no pop-up"
+   },
+   "backtogame": {
+      "message": "De volta para o jogo"
+   },
+   "best": {
+      "message": "Melhor"
+   },
+   "best_score": {
+      "message": "A Sua Pontuação"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "congratulations": {
+      "message": "Parabéns!"
+   },
+   "empty": {
+      "message": "Vazio."
+   },
+   "enter_name": {
+      "message": "Digite seu nome"
+   },
+   "game_over": {
+      "message": "Ao Longo Do Jogo!"
+   },
+   "input_placeholder": {
+      "message": "Exemplo: Mike"
+   },
+   "keep_going": {
+      "message": "Continuar"
+   },
+   "lb_suggestion": {
+      "message": "Quer obter a tabela de recordes?"
+   },
+   "leaderboard": {
+      "message": "Pontuação Superior. Temporada #2"
+   },
+   "loading": {
+      "message": "A carregar..."
+   },
+   "new_game": {
+      "message": "Novo Jogo"
+   },
+   "no": {
+      "message": "Nenhum"
+   },
+   "save": {
+      "message": "Salvar"
+   },
+   "score": {
+      "message": "Pontuação"
+   },
+   "try_again": {
+      "message": "Tente novamente"
+   },
+   "tutorial_1": {
+      "message": "Use o teclado"
+   },
+   "tutorial_2": {
+      "message": "jogar"
+   },
+   "victory": {
+      "message": "Você ganha!"
+   },
+   "yes": {
+      "message": "Sim"
+   }
+}
